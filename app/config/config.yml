@@ -45,7 +45,7 @@ assetic:
 #           default:
 #               connection: default
 #               mappings:
-#                   BlogAppliBlogBundle: ~
+#                   CSFBlogBundle: ~
 
 
 ## Swiftmailer Configuration

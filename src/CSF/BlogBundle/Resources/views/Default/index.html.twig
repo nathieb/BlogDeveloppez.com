@@ -2,4 +2,6 @@
 {% block title "Demo Développe.com" %}
 {% block content %}
     Developpez.com!
+{% from "CSFBlogBundle::macroliste.html.twig" import liste %}
+{{ liste("liste") }}
 {% endblock %}

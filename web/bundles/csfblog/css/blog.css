@@ -1,0 +1,19 @@
+/* 
+    Document   : blog
+    Created on : 27 mai 2011, 14:13:20
+    Author     : olivier Thiébaut
+    Description:
+        Tutoriel Dévelloppez.com, fichier principal css de l'application
+*/
+
+#wrapper { 
+    display: block;
+    font-family: arial, sans-serif;
+}
+#header{
+    background-color: grey;
+}
+#content{
+    
+}
+

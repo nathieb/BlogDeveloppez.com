@@ -6,14 +6,55 @@
         Tutoriel Dévelloppez.com, fichier principal css de l'application
 */
 
-#wrapper { 
-    display: block;
+/**Conteneur principal de la page*/
+#wrapper {
+    width:800px;
+    margin:auto;
+    padding:10px;
+    background-color:#c9b9c8;
+    border-left:1px solid #000000; /* couleur du cadre */
+    border-right:1px solid #000000;
+    border-bottom:1px solid #000000;
+    border-top:1px solid #000000;
     font-family: arial, sans-serif;
+    font-size: 10px;
 }
-#header{
-    background-color: grey;
+.leftmenu {
+    float:left;
+    text-align:left;
+    width:150px;
+    padding:10px;
+    background-color:#FBFBFF;
+    border:1px solid #000000; 
+    color:#666666;
 }
-#content{
-    
+.rightmenu {
+    float:right;
+    text-align:left;
+    width:150px;
+    padding:10px;
+    background-color:#FBFBFF;
+    border:1px solid #000000; 
+    color:#666666;
 }
-
+#header {
+    height:100px;
+    background-color:#edccff;
+    margin-bottom:10px;
+}
+/** partie centrale de la page */
+#content { 
+    margin-left:180px;
+    min-height:150px;
+    margin-right:180px;
+    border-left:1px dashed #000000; 
+    border-right:1px dashed #000000;
+    border-bottom:1px dashed #000000;
+    border-top:1px dashed #000000;
+    background-color:#00FBFF;
+}
+#footer{
+    height:100px;
+    background-color:#edccff;
+    margin-top:10px;
+}

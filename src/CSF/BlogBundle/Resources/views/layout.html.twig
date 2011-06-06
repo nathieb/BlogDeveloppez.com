@@ -7,8 +7,10 @@
     </head>
     <body>
         <div id="wrapper">
-            <div id="header">{% block header %}entête{% endblock %}</div>
-            <div id="content">{% block content %}test{% endblock %}</div>
+            <div id="header">{% block header %}header de page{% endblock %}</div>
+            <div class="leftmenu">{% block leftmenu %}Menu left{% endblock %}</div>
+            <div id="content">{% block content %}Partie centrale{% endblock %}</div>
+            <div id="footer">{% block footer %}footer de page{% endblock %}</div>
         </div>
     </body>
 </html>

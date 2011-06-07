@@ -6,7 +6,12 @@ que vous pouvez retrouver à l'URL ....
 
 ##Installation
 
-git clone git@github.com:cs2f/BlogDeveloppez.com BLOG
+Si vous clonez le projet, dans votre espace
+Sous Linux 
+git clone git@github.com:utilisateur/BlogDeveloppez.com BLOG
+
+Sous Windows ou Linux 
+git clone git@ssh.github.com:utilisateur/BlogDeveloppez.com.git BLOG
 
 Vous devez mettre à jour les sous modules
 git submodule update --init

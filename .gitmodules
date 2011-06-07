@@ -1,39 +1,39 @@
 [submodule "vendor/symfony"]
 	path = vendor/symfony
-	url = http://github.com/symfony/symfony.git
+	url = ssh://git@ssh.github.com:443/symfony/symfony.git
 [submodule "vendor/monolog"]
 	path = vendor/monolog
-	url = http://github.com/Seldaek/monolog.git
+	url = ssh://git@ssh.github.com:443/Seldaek/monolog.git
 [submodule "vendor/swiftmailer"]
 	path = vendor/swiftmailer
-	url = http://github.com/swiftmailer/swiftmailer.git
+	url = ssh://git@ssh.github.com:443/swiftmailer/swiftmailer.git
 [submodule "vendor/assetic"]
 	path = vendor/assetic
-	url = http://github.com/kriswallsmith/assetic.git
+	url = ssh://git@ssh.github.com:443/kriswallsmith/assetic.git
 [submodule "vendor/twig"]
 	path = vendor/twig
-	url = http://github.com/fabpot/Twig.git
+	url = ssh://git@ssh.github.com:443/fabpot/Twig.git
 [submodule "vendor/twig-extensions"]
 	path = vendor/twig-extensions
-	url = http://github.com/fabpot/Twig-extensions.git
+	url = ssh://git@ssh.github.com:443/fabpot/Twig-extensions.git
 [submodule "vendor/doctrine"]
 	path = vendor/doctrine
-	url = http://github.com/doctrine/doctrine2.git
+	url = ssh://git@ssh.github.com:443/doctrine/doctrine2.git
 [submodule "vendor/doctrine-dbal"]
 	path = vendor/doctrine-dbal
-	url = http://github.com/doctrine/dbal.git
+	url = ssh://git@ssh.github.com:443/doctrine/dbal.git
 [submodule "vendor/doctrine-data-fixtures"]
 	path = vendor/doctrine-data-fixtures
-	url = http://github.com/doctrine/data-fixtures.git
+	url = ssh://git@ssh.github.com:443/doctrine/data-fixtures.git
 [submodule "vendor/bundles/Symfony/Bundle/DoctrineFixturesBundle"]
 	path = vendor/bundles/Symfony/Bundle/DoctrineFixturesBundle
-	url = http://github.com/symfony/DoctrineFixturesBundle.git
+	url = ssh://git@ssh.github.com:443/symfony/DoctrineFixturesBundle.git
 [submodule "vendor/doctrine-migrations"]
 	path = vendor/doctrine-migrations
-	url = http://github.com/doctrine/migrations.git
+	url = ssh://git@ssh.github.com:443/doctrine/migrations.git
 [submodule "vendor/bundles/Symfony/Bundle/DoctrineMigrationsBundle"]
 	path = vendor/bundles/Symfony/Bundle/DoctrineMigrationsBundle
-	url = http://github.com/symfony/DoctrineMigrationsBundle.git
+	url = ssh://git@ssh.github.com:443/symfony/DoctrineMigrationsBundle.git
 [submodule "vendor/doctrine-common"]
 	path = vendor/doctrine-common
-	url = http://github.com/doctrine/common.git
+	url = ssh://git@ssh.github.com:443/doctrine/common.git
